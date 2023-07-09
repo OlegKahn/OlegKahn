@@ -1,4 +1,29 @@
-### Hi there 👋
+# Hi there 👋
+### I am:
+- Kan Oleg.
+- 29 years old.
+- Graduated from Odessa National Polytechnic University.
+    > Learned:
+    
+    [![My Skills](https://skillicons.dev/icons?i=matlab,cpp&theme=light)](https://skillicons.dev)
+    
+- Overseas Korean Java Developer.
+    > Live in South Korea.
+# My techical stack is:
+- Back end:
+  
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate&theme=light)](https://skillicons.dev)
+- Front end:
+  
+  [![My Skills](https://skillicons.dev/icons?i=js,jquery,bootstrap,css,html)](https://skillicons.dev)
+- Database:
+  
+  [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light)](https://skillicons.dev)
+- Other:
+  
+  [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,prometheus,grafana,graphql,idea,maven,postman&theme=light)](https://skillicons.dev)
+
+# My certificates:
 
 <!--
 **OlegKahn/OlegKahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
