@@ -24,7 +24,14 @@
   [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,prometheus,grafana,graphql,idea,maven,postman&theme=light)](https://skillicons.dev)
 
 # My certificates:
-
+- [English](certificate/english.pdf)
+- [Korean](certificate/korean.pdf)
+- HABSIDA CODING SCHOOL
+<!--
+- Udemy
+  - [Spring](certificate/zaur.pdf)
+  - [Git](certificate/alishev.pdf)
+  -->
 <!--
 **OlegKahn/OlegKahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
