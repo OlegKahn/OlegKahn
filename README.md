@@ -8,7 +8,7 @@
     [![My Skills](https://skillicons.dev/icons?i=matlab,cpp&theme=light)](https://skillicons.dev)
     
 - Overseas Korean Java Developer.
-    > Now I live in South Korea.
+    > Currently, I live in South Korea.
 # My techical stack is:
 - Back end:
   
