@@ -41,11 +41,12 @@ After getting into the Habsida program, I had the opportunity to learn about bac
   
   [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,prometheus,grafana,graphql,idea,maven,postman&theme=light)](https://skillicons.dev)
 
+<!--
 # My certificates:
 - [English](certificate/english.pdf)
 - [Korean](certificate/korean.pdf)
 - HABSIDA CODING SCHOOL
-<!--
+
 - Udemy
   - [Spring](certificate/zaur.pdf)
   - [Git](certificate/alishev.pdf)
