@@ -2,7 +2,7 @@
     
 ### I am:
 - Kan Oleg.
-- 29 years old.
+- 30 years old.
 - Graduated from Odessa National Polytechnic University.
     > Learned:
     
