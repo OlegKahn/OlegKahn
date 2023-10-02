@@ -51,12 +51,12 @@ After getting into the Habsida program, I had the opportunity to learn about bac
   - [Spring](certificate/zaur.pdf)
   - [Git](certificate/alishev.pdf)
   -->
-  
+  <!--
   # Other
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OlegKahn&layout=compact"/>
   <img src="https://github-readme-stats.vercel.app/api?username=OlegKahn&show_icons=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OlegKahn"/>
-<!--
+
 **OlegKahn/OlegKahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
